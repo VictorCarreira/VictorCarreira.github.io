@@ -1,1 +1,11 @@
-theme: jekyll-theme-dinky
+# General Jekll Config
+highlighter: rogue 
+name: Octocat's Wanderings
+description: Chronicles of my adventures in coding and opensource
+url: "https://victorcarreira.github.io/"
+lsi: false
+
+
+#Build settings
+markdown: kramdown
+remote_theme: benbalter/retlab
